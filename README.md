@@ -85,6 +85,7 @@ Actúa como Arquitecto de Software Senior con experiencia en apps de alto tráfi
 El prompt estructurado logró que la IA generara una especificación técnica completa, profesional y directamente aplicable para la fase de diseño del software.
 
 ## Errores que evite
+
 1. **Ambigüedad y vaguedad en la solicitud:**
    * *Error evitado:* Pedir algo genérico como *"Dime cómo hacer una app como Instagram"*, lo cual genera respuestas superficiales.
    * *Solución aplicada:* Definí un **Contexto** y una **Instrucción** claros especificando que es un híbrido entre Red Social y Marketplace.
